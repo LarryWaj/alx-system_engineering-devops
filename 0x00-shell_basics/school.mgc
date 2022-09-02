@@ -1,1 +1,2 @@
-file 0 -s =SCHOOL School
+#!/bin/bash
+file 0 -S -m school
